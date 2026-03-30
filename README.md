@@ -8,7 +8,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./src/header_.png)
+![](./assets/header.png)
 
 
 <!--   my-ticker -->    
